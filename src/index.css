@@ -8,6 +8,12 @@ body {
 }
 
 code {
+  font-family: 'Permanent Marker', cursive;
+}
+
+body{
+  
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
